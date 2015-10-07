@@ -32,7 +32,7 @@ body {
   max-height: 0;
   overflow: hidden; }
   .box-content.open {
-    max-height: 200px; }
+    max-height: 250px; }
   .box-content p {
     padding: 0 15px;
     line-height: 1.5; }
